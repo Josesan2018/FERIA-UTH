@@ -74,8 +74,8 @@ public class Opciones extends javax.swing.JFrame {
         Factura.setLocationRelativeTo(null);
 
         //ESCRITURA DE PARRAFO EN UN LABEL
-        fac.setText("<html><p>RESTAURANTE PITAKS </p><p>Colombia, Barranquilla</p><p>Teléfono: 30011111 - 31900000</p></html>");
-        horario.setText("<html><p>Lunes a Sábado 9:00 a.m a 9:00 p.m </p><p> Domingos y Festivos 10:00 a.m a 8:00 p.m</p></html>");
+        fac.setText("<html><p>RESTAURANTE JOSUE </p><p>Honduras, Distrito Central</p><p>Teléfono: 8957-9838 - 94675737</p></html>");
+        horario.setText("<html><p>Lunes a Sábado 7:00 a.m a 10:00 p.m </p><p> Domingos y Festivos 10:00 a.m a 8:00 p.m</p></html>");
 
         //PRODUCTOS
         ptr1 = new Nodo();
